@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Vladimir96P
-- 👀 I’m interested in Golang programming
 - 🌱 I’m currently learning GitHub tools
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me kent17@bk.ru
