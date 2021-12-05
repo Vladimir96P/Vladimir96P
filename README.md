@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Vladimir96P
-- 🌱 I’m currently learning GitHub tools
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me kent17@bk.ru
+- 👋 Hi, I’m Vladimir:)
+-  I’m looking to collaborate on interesting projects
+- 📫 How to reach me vladimir96petroff@mail.ru
 
 <!---
 Vladimir96P/Vladimir96P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
